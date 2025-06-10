@@ -69,7 +69,7 @@ def plot_series(data, initial_date, proy):
             marker=dict(color="#444"),
             line=dict(width=0),
             mode='lines',
-            fillcolor="rgba(243, 255, 251, 0.3)",
+            fillcolor="rgba(244, 255, 251, 0.3)",
             fill='tonexty',
             showlegend=False
         )
